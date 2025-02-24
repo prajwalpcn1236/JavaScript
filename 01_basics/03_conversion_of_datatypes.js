@@ -37,3 +37,25 @@ console.log(temp2_in_bool) // false
 ""-> bool : false
 "askjbaccq" -> bool : true
 */
+
+
+// operations on different datatypes
+// we can have all the arthemetic operations on the console.log() like add,sub,mul,div,rem etc
+// operations with string and num:
+
+let str1= "pcn"
+let str2=" Hi"
+console.log(str1+str2);// pcn Hi
+
+let a=2
+
+console.log(str1 + 2 +2); // if first string is thier then evrything is treated as string and is appended in the end.
+console.log(2 +2 + str1)  // if first numbers are there than they get added first and then appended to string.
+console.log("pcn" + a +2)
+console.log(2+ 2 + "pcn");
+
+
+
+
+
+
